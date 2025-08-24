@@ -1,21 +1,41 @@
-# Hi there 👋 I am sid
+# 👋 Hi there, I'm [Your Name]
 
-Developer & Data Enthusias
+## 🚀 About Me
 
-###About me🧑🏻‍💻
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning DA/DS
-- 📫 Reach me: siddharthp6103@gmail.com
-- ⚡ Fun fact: The very first computer “bug” was actually a real insect 🪲!,That’s why we still call software errors bugs! 🐛
+I'm a passionate developer who loves creating innovative web experiences and bringing ideas to life through code. I specialize in frontend development with modern technologies and enjoy exploring the intersection of creativity and technology.
 
-### 🌐 Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/yourprofile](https://www.instagram.com/mr.x.oo3?igsh=MTA0enh6Mm93MW5oMw==)
+## ��️ Languages & Tools
 
-### 🛠️ Languages and Tools:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
+### Backend & General Purpose
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## �� Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_instagram_handle)
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical)
+
+## 🏆 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=radical)
+
+## �� Contribution Graph
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your_github_username&theme=radical)
+
+---
+
+⭐ **Feel free to star my repositories if you find them helpful!**
+
+*Last updated: [Current Date]*
